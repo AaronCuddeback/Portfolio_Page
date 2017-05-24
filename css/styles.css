@@ -1,0 +1,81 @@
+body {
+  padding-top: 5rem;
+  margin-left: 0px !important;
+  margin-right: 0px;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+form {
+  text-align: center;
+}
+
+img {
+  float: left;
+  width: 30%;
+  margin: 1.66%;
+}
+
+h2 {
+  color: #2c3e50;
+  font-weight: bold;
+}
+
+.navbar-brand {
+  font-family: 'Lobster', cursive;
+  font-size: 34px;
+  margin-left: 1.66%
+}
+
+#blog {
+  font-size: 20px;
+  padding-right: 40px !important;
+}
+
+#home {
+  font-size: 20px;
+}
+
+#bloggroup {
+  max-width: 1000px;
+  width: 90%;
+  margin: 20px auto;
+  font-family: 'Open Sans', sans-serif;
+  border: 20px solid #bdc3c7;
+  padding: 20px;
+
+}
+
+.date {
+  font-weight: bold;
+  font-size: 16px;
+  color: #3498db;
+  text-transform: uppercase;
+  letter-spacing: 0.2rem;
+}
+
+.firstp {
+  border-left: 5px solid #bdc3c7;
+  padding-left: 5px;
+}
+
+.article-heading {
+  margin: 30px 0;
+  font-size: 2.0rem;
+}
+
+.article {
+  
+  margin-bottom: 20px;
+}
+
+/* Flaired edges, by Tomas Theunissen */
+
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
