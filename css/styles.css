@@ -14,8 +14,8 @@ form {
 
 img {
   float: left;
-  width: 30%;
-  margin: 1.66%;
+/*   width: 30%; */
+  margin-bottom: 1.66%;
 }
 
 h2 {
@@ -81,9 +81,9 @@ hr {
 }
 
 
-@media (max-width: 750px) {
+/* @media (max-width: 750px) {
      img {
   clear: left;
   width: 100%;
-  } 
+  }  */
 }
